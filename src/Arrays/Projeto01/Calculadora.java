@@ -42,6 +42,5 @@ public class Calculadora {
         }
 
         scan.close();
-
     }
 }
