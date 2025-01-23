@@ -13,7 +13,7 @@ public class Calculadora {
         System.out.println("Digite a quantidade de notas: ");
         int quantidade = scan.nextInt();
 
-        double[] notas = new double[quantidade];
+        float[] notas = new float[quantidade];
 
         for(int i =0; i<quantidade; i++){
             System.out.println("Digite a nota "+(i+1)+" :");
@@ -21,12 +21,12 @@ public class Calculadora {
 
         }
 
-        double soma = 0;
-        for(double nota : notas){
+        float soma = 0;
+        for(float nota : notas){
             soma += nota;
         }
 
-        double media = soma/quantidade;
+        float media = soma/quantidade;
 
         System.out.println("Média = " + df.format(media));
 
