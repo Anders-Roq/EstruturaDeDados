@@ -1,0 +1,11 @@
+Descrição:
+Um programa simples que recebe as notas de um aluno,
+calcula a média e exibe se ele foi aprovado ou reprovado.
+
+Primeiro: Definir o tamanho do array ao pedir a quantidade de notas que serão inceridas.
+
+Segundo: Criar um laço para inserir as notas no array.
+
+Terceiro: Calcular a media das notas digitadas.
+
+Quarto: Criar um laço para exbir o resultado.
