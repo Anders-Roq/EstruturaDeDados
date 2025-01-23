@@ -1,0 +1,11 @@
+
+Descrição:
+Um programa que gerencia um estoque simples de produtos.
+Ele permite adicionar produtos, atualizar quantidades,
+exibir o estoque e pesquisar por um produto específico.
+
+Primeiro: Informar quantidade total de produtos que deseja cadastrar e criar os arrays.
+
+Segundo: Criar o cadastro individual de produtos junto com sua quantidade.
+
+Terceiro: Criar o menu (switch) com todas as opções.
