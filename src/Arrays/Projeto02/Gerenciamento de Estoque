@@ -9,3 +9,4 @@ Primeiro: Informar quantidade total de produtos que deseja cadastrar e criar os 
 Segundo: Criar o cadastro individual de produtos junto com sua quantidade.
 
 Terceiro: Criar o menu (switch) com todas as opções.
+Menu deve ter as opções de adcionar, atualizar, remover, exibir e pesquisar no estoque.
